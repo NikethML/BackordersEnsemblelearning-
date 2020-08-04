@@ -1,2 +1,2 @@
 # BackordersEnsemblelearning-
-A project depicting the use of Backorders done thorough ensemble learning
+A project depicting the use of Backorders(whether the project will go to backorders or not) done thorough ensemble learning
